@@ -1,6 +1,6 @@
 """
 Project Name: Drawing Adinkra Symbols using Python
-Symbol Name: 
+Symbol Name: Fawohudie
 Developer Name: Truston Ailende
 Email Address: trustonailende@gmail.com
 """
