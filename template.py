@@ -43,7 +43,7 @@ def drawVerticalLine(length, division):
     turtle.home()
  
 # Draw the grid
-turtle.speed(1000000)
+turtle.speed(0)
 drawSquare(400)
 drawHorizontalLine(400, 40)
 drawVerticalLine(400, 40)
